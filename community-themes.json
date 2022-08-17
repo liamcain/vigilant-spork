@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Minimal",
+        "author": "kepano",
+        "repo": "liamcain/fictional-goggles",
+        "screenshot": "dark-simple.png",
+        "modes": ["dark", "light"]
+    }
+]
