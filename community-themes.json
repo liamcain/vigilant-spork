@@ -1,5 +1,6 @@
 [
     {
+        "id": "minimal",
         "name": "Minimal",
         "author": "kepano",
         "repo": "liamcain/fictional-goggles",
