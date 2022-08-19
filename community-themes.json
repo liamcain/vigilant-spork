@@ -1,9 +1,37 @@
 [
     {
-        "name": "Minimal",
-        "author": "kepano",
+        "name": "Windows 10",
+        "author": "@licat",
         "repo": "liamcain/fictional-goggles",
         "screenshot": "dark-simple.png",
+        "modes": ["dark", "light"]
+    },
+    {
+        "name": "Atom",
+        "author": "kognise",
+        "repo": "kognise/obsidian-atom",
+        "screenshot": "screenshot-hybrid.png",
+        "modes": ["dark", "light"]
+    },
+    {
+        "name": "Obsidian gruvbox",
+        "author": "insanum",
+        "repo": "insanum/obsidian_gruvbox",
+        "screenshot": "dark.png",
+        "modes": ["dark", "light"]
+    },
+    {
+        "name": "Obsidian Nord",
+        "author": "insanum",
+        "repo": "insanum/obsidian_nord",
+        "screenshot": "screen.png",
+        "modes": ["dark"]
+    },
+    {
+        "name": "80s Neon",
+        "author": "deathau",
+        "repo": "deathau/80s-Neon-for-Obsidian.md",
+        "screenshot": "screenshot.jpg",
         "modes": ["dark", "light"]
     }
 ]
